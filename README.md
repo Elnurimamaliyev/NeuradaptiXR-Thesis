@@ -1,6 +1,6 @@
 # NeuroAdaptive XR System: Solving the Midas Touch Problem with SPN
 
-📄 **[Read the Full Thesis (PDF)](https://doi.org/10.13140/RG.2.2.23354.04807)**
+📄 **[Read the Full Thesis (PDF): https://doi.org/10.13140/RG.2.2.23354.04807](https://doi.org/10.13140/RG.2.2.23354.04807)**
 
 A neuroadaptive Mixed Reality (MR) system that addresses the "Midas Touch" problem in eye-based Brain-Computer Interfaces (BCIs) by utilizing Stimulus Preceding Negativity (SPN) EEG signals for intent detection in gaze-based interactions.
 
