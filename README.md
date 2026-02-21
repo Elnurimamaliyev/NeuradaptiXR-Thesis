@@ -1,6 +1,8 @@
 # NeuroAdaptive XR System: Solving the Midas Touch Problem with SPN
 
-📄 **[Read the Peer-Reviewed ACM CHI 26 Paper: Anticipation Before Action: EEG-Based Implicit Intent Detection for Adaptive Gaze Interaction in Mixed Reality www.doi.org/10.13140/RG.2.2.23354.04807](
+Anticipation Before Action: EEG-Based Implicit Intent Detection for Adaptive Gaze Interaction in Mixed Reality
+
+📄 **[Read the Peer-Reviewed ACM CHI 26 Paper: www.doi.org/10.13140/RG.2.2.23354.04807](
 www.doi.org/10.48550/arXiv.2601.18750)**
 
 📄 **[Read the Full Thesis (PDF): www.doi.org/10.13140/RG.2.2.23354.04807](www.doi.org/10.13140/RG.2.2.23354.04807)**
