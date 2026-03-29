@@ -224,10 +224,7 @@ This project is released for academic and research purposes. Please cite appropr
 Master's Thesis Project - Ludwig Maximilian University of Munich (LMU)
 
 ## 🙏 Acknowledgments
-
-- Varjo Technologies for XR hardware support
-- Brain Products GmbH for EEG equipment
-- Supervisors and colleagues at LMU Human-Computer Interaction Lab
+- Supervisors and colleagues at LMU Media Informatics Lab
 
 ## 📧 Contact
 
