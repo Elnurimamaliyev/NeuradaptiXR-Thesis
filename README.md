@@ -2,10 +2,11 @@
 
 Anticipation Before Action: EEG-Based Implicit Intent Detection for Adaptive Gaze Interaction in Mixed Reality
 
-📄 **[Read the Peer-Reviewed ACM CHI 26 Paper: www.doi.org/10.13140/RG.2.2.23354.04807](
+📄 **[Read the Peer-Reviewed ACM CHI 26 Paper: www.doi.org/10.48550/arXiv.2601.18750](
 www.doi.org/10.48550/arXiv.2601.18750)**
 
-📄 **[Read the Full Thesis (PDF): www.doi.org/10.13140/RG.2.2.23354.04807](www.doi.org/10.13140/RG.2.2.23354.04807)**
+📄 **[Read the Full Thesis (PDF): www.doi.org/10.13140/RG.2.2.23354.04807](
+www.doi.org/10.13140/RG.2.2.23354.04807)**
 
 
 A neuroadaptive Mixed Reality (MR) system that addresses the "Midas Touch" problem in eye-based Brain-Computer Interfaces (BCIs) by utilizing Stimulus Preceding Negativity (SPN) EEG signals for intent detection in gaze-based interactions.
